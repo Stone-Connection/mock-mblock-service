@@ -1,8 +1,24 @@
 
 [
-    "Frente 1",
-    "Frente 2",
-    "Frente 3",
-    "Frente 4"
+    {
+        
+        "id": 1,
+        "nome": "Frente 1"
+    },
+    {
+        
+        "id": 2,
+        "nome": "Frente 2"
+    },
+    {
+        
+        "id": 3,
+        "nome": "Frente 3"
+    },
+    {
+        
+        "id": 4,
+        "nome": "Frente 4"
+    }
  ]
 
