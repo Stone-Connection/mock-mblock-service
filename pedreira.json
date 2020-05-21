@@ -1,14 +1,48 @@
 [
  {
   "id": 1,
-  "nome": "GVM Sao Felix MG"
+  "nome": "GVM Sao Felix MG",
+  "frentes": [
+   {
+    "id": 1,
+    "nome": "GVM SAO FELIX F1"
+   },
+   {
+    "id": 2,
+    "nome": "GVM SAO FELIX F2"
+   },
+   {
+    "id": 3,
+    "nome": "GVM SAO FELIX F3"
+   },
+   {
+    "id": 4,
+    "nome": "GVM SAO FELIX F4"
+   },
+  ]
  },
  {
   "id": 2,
-  "nome": "GMV Rio de Janeiro RJ"
+  "nome": "GMV Rio de Janeiro RJ",
+  "frentes": [
+   {
+    "id": 1,
+    "nome": "GVM RIO de Janeiro F1"
+   },
+  ]
  },
  {
   "id": 3,
-  "nome": "GMV Sao Patricio ES"
+  "nome": "GMV Sao Patricio ES",
+  "frentes": [
+   {
+    "id": 1,
+    "nome": "GVM SAO PATRICIO F1"
+   },
+   {
+    "id": 2,
+    "nome": "GVM SAO FELIX F2"
+   },
+  ]
  }
  ]
