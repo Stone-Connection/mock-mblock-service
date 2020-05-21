@@ -1,7 +1,14 @@
-{
- "material": [
-   "Black Sea",
-   "Zeus",
-   "Verde"
- ]
-}
+[
+  {
+  "id": 1,
+  "nome": "Black Sea"
+ },
+ {
+  "id": 2,
+  "nome": "Zeus"
+ },
+ {
+  "id": 3,
+  "nome": "Preto Absoluto"
+ } 
+]
