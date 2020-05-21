@@ -3,5 +3,20 @@
    "Black Sea",
    "Zeus",
    "Verde"
+ ],
+ "classificacao": [
+   "Comercial",
+   "Não comercial"
+ ],
+ "pedreira": [
+   "GVM Sao felix MG",
+   "GVM Felix Sao GM",
+   "VGM SF GM"
+ ]
+ "frente": [
+    "Frente 1",
+    "Frente 2",
+    "Frente 3",
+    "Frente 4"
  ]
 }
