@@ -18,7 +18,7 @@
    {
     "id": 4,
     "nome": "GVM SAO FELIX F4"
-   },
+   }
   ]
  },
  {
@@ -28,7 +28,7 @@
    {
     "id": 1,
     "nome": "GVM RIO de Janeiro F1"
-   },
+   }
   ]
  },
  {
@@ -42,7 +42,7 @@
    {
     "id": 2,
     "nome": "GVM SAO FELIX F2"
-   },
+   }
    ]
  }
 ]
