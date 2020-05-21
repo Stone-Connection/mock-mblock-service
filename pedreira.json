@@ -1,7 +1,14 @@
-{
- "pedreira": [
-   "GVM Sao felix MG",
-   "GVM Felix Sao GM",
-   "VGM SF GM"
- ]
+[
+ {
+  "id": 1,
+  "nome": "GVM Sao Felix MG"
+ },
+ {
+  "id": 2,
+  "nome": "GMV Rio de Janeiro RJ"
+ },
+ {
+  "id": 3,
+  "nome": "GMV Sao Patricio ES"
  }
+ ]
