@@ -1,6 +1,10 @@
+[
  {
-  "classificacao": [
-   "Comercial",
-   "Não comercial"
-  ]
+  "id": 1,
+  "nome": "Comercial"
+ },
+ {
+  "id": 2,
+  "nome": "Nao Comercial"
  }
+]
