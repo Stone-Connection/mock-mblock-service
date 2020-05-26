@@ -6,13 +6,6 @@
         "username": "Joao",
         "password": "123",
         "access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
-    },
-    {
-        
-        "id": 2,
-        "username": "Maria",
-        "password":"456",
-        "access_token":"nnJUNUJjnkje96489CE89iNhbcdhJKJBcrCT"
-    }   
+    }
  ]
 
