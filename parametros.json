@@ -1,0 +1,89 @@
+{
+    "quarries": [
+        {
+         "id": 1,
+         "name": "GVM Sao Felix MG",
+         "fronts": [
+          {
+           "id": 1,
+           "name": "GVM SAO FELIX F1"
+          },
+          {
+           "id": 2,
+           "name": "GVM SAO FELIX F2"
+          },
+          {
+           "id": 3,
+           "name": "GVM SAO FELIX F3"
+          },
+          {
+           "id": 4,
+           "name": "GVM SAO FELIX F4"
+          }
+         ]
+        },
+        {
+         "id": 2,
+         "name": "GMV Rio de Janeiro RJ",
+         "frentes": [
+          {
+           "id": 1,
+           "name": "GVM RIO de Janeiro F1"
+          }
+         ]
+        },
+        {
+         "id": 3,
+         "name": "GMV Sao Patricio ES",
+         "fronts": [
+          {
+           "id": 1,
+           "name": "GVM SAO PATRICIO F1"
+          },
+          {
+           "id": 2,
+           "name": "GVM SAO FELIX F2"
+          }
+          ]
+        }
+    ],
+    "materials": [
+        {
+        "id": 1,
+        "name": "Black Sea",
+        "rockTypeId": 1, 
+        "rockType": "Rocha", 
+        "colorId": 2, 
+        "color": "Cor"
+       },
+       {
+        "id": 2,
+        "name": "Zeus",
+        "rockTypeId": 1, 
+        "colorId": 2
+    
+       },
+       {
+        "id": 3,
+        "name": "Preto Absoluto",
+        "rockTypeId": 4,
+        "colorId": 3
+       } 
+    ],
+    "classifications": [
+        {
+         "id": 1,
+         "name": "Comercial"
+        },
+        {
+         "id": 2,
+         "name": "Não Comercial"
+        }
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Tag01"
+      }
+    ]
+  }
