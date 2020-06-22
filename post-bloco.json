@@ -1,0 +1,48 @@
+{
+	"code": 1000,
+	"details": "lorem ipsum dolor sit amet",
+	"markDate": "06/05/2020",
+	"measurements": {
+		"gross": {
+			"width": 2,
+			"height": 2.5,
+			"length": 3,
+			"classificationId": 1
+		},
+		"net": {
+			"width": 1.95,
+			"height": 2.43,
+			"length": 2.91,
+			"classificationId": 2
+		},
+		"commercial": {
+			"width": 1.95,
+			"height": 2.43,
+			"length": 2.91,
+			"classificationId": 3
+		}
+	},
+	"photos": [
+		{
+			"originalReference": "path/path/to/original/photo",
+			"editedReference": "path/to/edited/photo"
+		},
+		{
+			"originalReference": "path/to/original/photo",
+			"editedReference": "path/to/edited/photo"
+		},
+		{
+			"originalReference": "path/to/original/photo",
+			"editedReference": "path/to/edited/photo"
+		}
+	],
+	"quarry": {
+		"id": 1,
+		"frontId": 1
+	},
+	"tag": {
+		"name": "allware-00001"
+	},
+	"classificationId": 1,
+	"materialId": 1
+}
